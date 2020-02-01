@@ -17,7 +17,6 @@
 	padding: 1em .75em;
 	text-decoration: none;
 	color: #fff;
-
 }
 
 .card_bottom{
@@ -53,5 +52,5 @@ Navigation
 }
 
 .makeBorder{
-	border:2px;
+	border: solid 2px #000;
 }
