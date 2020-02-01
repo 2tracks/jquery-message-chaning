@@ -8,5 +8,14 @@ $('document').ready(function(){
         $('#button1').removeClass('makeBorder').addClass('makeRed');
     });
 
+    $('button').click(function(){
+        $('p').hide(3000).show(3000);
+    });
+
+    $('button').click(function(){
+        $('p').fadeOut().fadeIn();
+    });
+
+
 
 });
